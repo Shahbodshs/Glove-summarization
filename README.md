@@ -1,5 +1,5 @@
 # GloVe summarization with python
-here i have provided to you the code of glove model technique for summariizing text.<br>
+here i have provided to you the code of glove model technique for summarizing text.<br>
 Ofcourse the fact that this model is one of the embedding moels this is not as strong as transformer models. <br>
 ## How to use the code ? 
 For using the code you need to download the embeddings from the stanford university or whereever you consider to download, but you will need the embeddings. <br>
