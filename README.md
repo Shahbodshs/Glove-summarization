@@ -8,4 +8,4 @@ You can download the __Stanford__ embeddings from [here.](https://nlp.stanford.e
 ## Code explanation
 The code first extracts the informations of embeddings.<br> 
 then tokenizes the sentences and words.<br>
-and then it uses cosine similarity matrix and pagerank algorithm(for picking up the summary sentences similar to using the [LexRank](https://rishabh71510.medium.com/understanding-lexrank-text-summarization-algorithm-fb2c5415e0b6)).<br>
+and then it uses cosine similarity matrix and pagerank algorithm(for picking up the summary sentences similar to using the [LexRank](https://rishabh71510.medium.com/understanding-lexrank-text-summarization-algorithm-fb2c5415e0b6).<br>
